@@ -4,7 +4,7 @@
   <tr>
     <td width="50%" valign="top">
         <a target="_blank" href="https://shawncharles.com/travelara">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+            <img src="https://github.com/CharlesCreativeContent/Portfolio2021/blob/main/images/Dark%20Blue%20and%20Yellow%20Modern%20Business%20Strategy%20Live%20Webinar%20Instagram%20Post.gif?raw=true" width="100%" alt="Travel App"/>
         </a>
         <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
     </td>

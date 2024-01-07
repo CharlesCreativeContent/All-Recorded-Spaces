@@ -25,7 +25,7 @@
     </td>
     <td width="50%" valign="top">
       <a target="_blank" href="#">
-            <img src="https://shawnimages.netlify.app/images/spaces/yk-how-to-get-a-job-in-tech.jpeg" width="100%"  alt="#"/>
+            <img src="https://github.com/CharlesCreativeContent/Portfolio2021/blob/main/images/Minimalist%20Business%20Talk%20Animated%20Facebook%20Post.gif?raw=true" width="100%"  alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>
     </td>

@@ -10,7 +10,7 @@
     </td>
     <td width="50%" valign="top">
       <a target="_blank" href="#">
-            <img src="https://shawnimages.netlify.app/images/spaces/francesco-being-a-dev-in-2024" width="100%"  alt="#"/>
+            <img src="https://shawnimages.netlify.app/images/spaces/francesco-being-a-dev-in-2024.jpeg" width="100%"  alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>
     </td>

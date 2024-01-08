@@ -203,7 +203,7 @@
   <tr>
     <td width="50%" valign="top">
         <a target="_blank" href="#">
-            <img src="https://shawnimages.netlify.app/images/spaces/jessica-live-linkedin-review-tips-tech.jpeg" width="100%" alt="#"/>
+            <img src="https://shawnimages.netlify.app/images/spaces/jessica-live-linkedin.jpeg" width="100%" alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>
     </td>
@@ -239,7 +239,7 @@
     </td>
     <td width="50%" valign="top">
       <a target="_blank" href="#">
-            <img src="https://shawnimages.netlify.app/images/spaces/yk-public-speaking-workshop.jpeg" width="100%"  alt="#"/>
+            <img src="https://shawnimages.netlify.app/images/spaces/csdojo-public-speaking.jpeg" width="100%"  alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>
     </td>

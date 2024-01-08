@@ -268,80 +268,75 @@
         <p><strong>title</strong> - description</p>
     </td>
     <td width="50%" valign="top">
-      <a target="_blank" href="#">
-            <img src="https://shawnimages.netlify.app/images/spaces/jessica-linkedin-reviews-tips-take-2.jpeg" width="100%"  alt="#"/>
-        </a>
-        <p><strong>title</strong> - description</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
         <a target="_blank" href="#">
             <img src="https://shawnimages.netlify.app/images/spaces/mike-networking.jpeg" width="100%" alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>
     </td>
+
+  </tr>
+  
+  <tr>
     <td width="50%" valign="top">
       <a target="_blank" href="#">
             <img src="https://shawnimages.netlify.app/images/spaces/sofia-what-got-you-in-to-tech.jpeg" width="100%"  alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>
     </td>
-  </tr>
-  
-  <tr>
     <td width="50%" valign="top">
         <a target="_blank" href="#">
             <img src="https://shawnimages.netlify.app/images/spaces/jessica-live-linkedin-reviews-2023.jpeg" width="100%" alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>
     </td>
+  </tr>
+  
+  <tr>
     <td width="50%" valign="top">
       <a target="_blank" href="#">
             <img src="https://shawnimages.netlify.app/images/spaces/the-hunt-sep25.jpeg" width="100%"  alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>
     </td>
-  </tr>
-  
-  <tr>
     <td width="50%" valign="top">
         <a target="_blank" href="#">
             <img src="https://shawnimages.netlify.app/images/spaces/neda-the-hunt.jpeg" width="100%" alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>
     </td>
+  </tr>
+  
+  <tr>
     <td width="50%" valign="top">
       <a target="_blank" href="#">
             <img src="https://shawnimages.netlify.app/images/spaces/the-hunt-feb17.jpeg" width="100%"  alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>
     </td>
-  </tr>
-  
-  <tr>
     <td width="50%" valign="top">
         <a target="_blank" href="#">
             <img src="https://shawnimages.netlify.app/images/spaces/jessica-leverage-linkedin-for-tech.jpeg" width="100%" alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>
     </td>
+  </tr>
+  
+  <tr>
     <td width="50%" valign="top">
       <a target="_blank" href="#">
             <img src="https://shawnimages.netlify.app/images/spaces/ilhan-future-of-content.jpeg" width="100%"  alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>
     </td>
-  </tr>
-  
-  <tr>
     <td width="50%" valign="top">
         <a target="_blank" href="#">
             <img src="https://shawnimages.netlify.app/images/spaces/jessica-leverage-linkedin-for-tech.jpeg" width="100%" alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>
     </td>
+  </tr>
+  
+  <tr>
     <td width="50%" valign="top">
       <a target="_blank" href="#">
             <img src="https://shawnimages.netlify.app/images/spaces/the-hunt-aug12.jpeg" width="100%"  alt="#"/>

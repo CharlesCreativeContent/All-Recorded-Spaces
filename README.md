@@ -94,4 +94,34 @@
         <p><strong>title</strong> - description</p>
     </td>
   </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+        <a target="_blank" href="#">
+            <img src="https://shawnimages.netlify.app/images/spaces/kiranpreet-building-strong.jpeg" width="100%" alt="#"/>
+        </a>
+        <p><strong>title</strong> - description</p>
+    </td>
+    <td width="50%" valign="top">
+      <a target="_blank" href="#">
+            <img src="https://shawnimages.netlify.app/images/spaces/graham-ai-ethics.jpeg" width="100%"  alt="#"/>
+        </a>
+        <p><strong>title</strong> - description</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+        <a target="_blank" href="#">
+            <img src="https://shawnimages.netlify.app/images/spaces/nairobi-negotiation-bulldog.jpeg" width="100%" alt="#"/>
+        </a>
+        <p><strong>title</strong> - description</p>
+    </td>
+    <td width="50%" valign="top">
+      <a target="_blank" href="#">
+            <img src="https://shawnimages.netlify.app/images/spaces/katt-finding-peace.jpeg" width="100%"  alt="#"/>
+        </a>
+        <p><strong>title</strong> - description</p>
+    </td>
+  </tr>
 </table>

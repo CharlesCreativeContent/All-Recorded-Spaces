@@ -314,34 +314,28 @@
         <p><strong>title</strong> - description</p>
     </td>
     <td width="50%" valign="top">
-        <a target="_blank" href="#">
-            <img src="https://shawnimages.netlify.app/images/spaces/jessica-leverage-linkedin-for-tech.jpeg" width="100%" alt="#"/>
-        </a>
-        <p><strong>title</strong> - description</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
       <a target="_blank" href="#">
             <img src="https://shawnimages.netlify.app/images/spaces/ilhan-future-of-content.jpeg" width="100%"  alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>
     </td>
+  </tr>
+  
+  <tr>
     <td width="50%" valign="top">
         <a target="_blank" href="#">
             <img src="https://shawnimages.netlify.app/images/spaces/jessica-leverage-linkedin-for-tech.jpeg" width="100%" alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>
     </td>
-  </tr>
-  
-  <tr>
     <td width="50%" valign="top">
       <a target="_blank" href="#">
             <img src="https://shawnimages.netlify.app/images/spaces/the-hunt-aug12.jpeg" width="100%"  alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>
     </td>
+  </tr>
+  
+  <tr>
   </tr>
 </table>

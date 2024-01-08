@@ -149,7 +149,7 @@
     </td>
     <td width="50%" valign="top">
       <a target="_blank" href="#">
-            <img src="https://shawnimages.netlify.app/images/spaces/tech-networking-oct10.jpeg" width="100%"  alt="#"/>
+            <img src="https://shawnimages.netlify.app/images/spaces/tech-networking.jpeg" width="100%"  alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>
     </td>
@@ -188,7 +188,7 @@
   <tr>
     <td width="50%" valign="top">
         <a target="_blank" href="#">
-            <img src="https://shawnimages.netlify.app/images/spaces/yk-getting-tech-job.jpeg" width="100%" alt="#"/>
+            <img src="https://shawnimages.netlify.app/images/spaces/yk-getting-a-tech.jpeg" width="100%" alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>
     </td>

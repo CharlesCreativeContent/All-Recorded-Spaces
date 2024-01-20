@@ -33,13 +33,13 @@
   
   <tr>
     <td width="50%" valign="top">
-        <a target="_blank" href="#">
+        <a target="_blank" href="https://twitter.com/i/spaces/1ypKdEdMoVYGW">
             <img src="https://github.com/CharlesCreativeContent/Portfolio2021/blob/main/images/Blue%20and%20Yellow%20Modern%20Business%20Strategy%20Live%20Webinar%20Instagram%20Post.gif?raw=true" width="100%" alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>
     </td>
     <td width="50%" valign="top">
-      <a target="_blank" href="#">
+      <a target="_blank" href="https://twitter.com/i/spaces/1eaKbNaXPrZKX">
             <img src="https://github.com/CharlesCreativeContent/Portfolio2021/blob/main/images/Abstract%20Riso%20Gradient%20Webinar%20Digital%20Speakers%20Instagram%20Post.gif?raw=true" width="100%"  alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>

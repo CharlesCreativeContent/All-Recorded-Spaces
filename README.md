@@ -67,13 +67,13 @@
   
   <tr>
     <td width="50%" valign="top">
-        <a target="_blank" href="https://twitter.com/i/spaces/1MYxNoZQXgVKw">
+        <a target="_blank" href="https://twitter.com/i/spaces/1jMKgLwNQvbGL">
             <img src="https://shawnimages.netlify.app/images/spaces/danny-junior-dev-3.jpeg" width="100%" alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>
     </td>
     <td width="50%" valign="top">
-      <a target="_blank" href="https://twitter.com/i/spaces/1jMKgLwNQvbGL">
+      <a target="_blank" href="https://twitter.com/i/spaces/1YqJDoBkmLkGV">
             <img src="https://shawnimages.netlify.app/images/spaces/ilhan-entering-cybersecurity.jpeg" width="100%"  alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>
@@ -82,13 +82,13 @@
   
   <tr>
     <td width="50%" valign="top">
-        <a target="_blank" href="#">
+        <a target="_blank" href="https://twitter.com/i/spaces/1mnGedpdzzrKX">
             <img src="https://shawnimages.netlify.app/images/spaces/eddie-devrel-open-source.jpeg" width="100%" alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>
     </td>
     <td width="50%" valign="top">
-      <a target="_blank" href="#">
+      <a target="_blank" href="https://twitter.com/i/spaces/1YpJkZkWwwAGj">
             <img src="https://shawnimages.netlify.app/images/spaces/billionaires-sourcing-for-international.jpeg" width="100%"  alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>
@@ -97,13 +97,13 @@
   
   <tr>
     <td width="50%" valign="top">
-        <a target="_blank" href="#">
+        <a target="_blank" href="https://twitter.com/i/spaces/1vOxwMXLEobGB">
             <img src="https://shawnimages.netlify.app/images/spaces/kiranpreet-building-strong-connections.jpeg" width="100%" alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>
     </td>
     <td width="50%" valign="top">
-      <a target="_blank" href="#">
+      <a target="_blank" href="https://twitter.com/i/spaces/1OwxWwPDyzRxQ">
             <img src="https://shawnimages.netlify.app/images/spaces/graham-ai-ethics.jpeg" width="100%"  alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>
@@ -112,13 +112,13 @@
   
   <tr>
     <td width="50%" valign="top">
-        <a target="_blank" href="#">
+        <a target="_blank" href="https://twitter.com/i/spaces/1DXxyDWLOQWJM">
             <img src="https://shawnimages.netlify.app/images/spaces/nairobi-negotiation-bulldog.jpeg" width="100%" alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>
     </td>
     <td width="50%" valign="top">
-      <a target="_blank" href="#">
+      <a target="_blank" href="https://twitter.com/i/spaces/1jMJgLbDMRMxL">
             <img src="https://shawnimages.netlify.app/images/spaces/katt-finding-peace.jpeg" width="100%"  alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>

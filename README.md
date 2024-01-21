@@ -52,13 +52,13 @@
   
   <tr>
     <td width="50%" valign="top">
-      <a target="_blank" href="#">
+      <a target="_blank" href="https://twitter.com/i/spaces/1YpKkgOdvRwKj">
             <img src="https://shawnimages.netlify.app/images/spaces/nicole-surviving-sapa.jpeg" width="100%"  alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>
     </td>
     <td width="50%" valign="top">
-      <a target="_blank" href="#">
+      <a target="_blank" href="https://twitter.com/i/spaces/1lPKqbrmdOZGb">
             <img src="https://shawnimages.netlify.app/images/spaces/propel-open-source-demystified.jpeg" width="100%"  alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>
@@ -67,13 +67,13 @@
   
   <tr>
     <td width="50%" valign="top">
-        <a target="_blank" href="#">
+        <a target="_blank" href="https://twitter.com/i/spaces/1MYxNoZQXgVKw">
             <img src="https://shawnimages.netlify.app/images/spaces/danny-junior-dev-3.jpeg" width="100%" alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>
     </td>
     <td width="50%" valign="top">
-      <a target="_blank" href="#">
+      <a target="_blank" href="https://twitter.com/i/spaces/1jMKgLwNQvbGL">
             <img src="https://shawnimages.netlify.app/images/spaces/ilhan-entering-cybersecurity.jpeg" width="100%"  alt="#"/>
         </a>
         <p><strong>title</strong> - description</p>

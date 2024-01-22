@@ -6,13 +6,13 @@
         <a target="_blank" href="https://twitter.com/i/spaces/1lPKqmmpWqeKb">
             <img src="https://github.com/CharlesCreativeContent/Portfolio2021/blob/main/images/Dark%20Blue%20and%20Yellow%20Modern%20Business%20Strategy%20Live%20Webinar%20Instagram%20Post.gif?raw=true" width="100%" alt="#"/>
         </a>
-        <p><strong>title</strong> - description</p>
+        <p><strong>title</strong> -  Comprehensive guide offering strategies, tips, and insights for navigating the competitive tech industry job market.</p>
     </td>
     <td width="50%" valign="top">
       <a target="_blank" href="https://twitter.com/i/spaces/1yNGaZDDjeVJj">
             <img src="https://shawnimages.netlify.app/images/spaces/francesco-being-a-dev-in-2024.jpeg" width="100%"  alt="#"/>
         </a>
-        <p><strong>title</strong> - description</p>
+        <p><strong>title</strong> - Explores the evolving landscape of software development, highlighting the latest technologies, industry trends, and the skills required to succeed in this dynamic field.</p>
     </td>
   </tr>
   

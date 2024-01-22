@@ -384,7 +384,8 @@
       <a target="_blank" href="https://twitter.com/i/spaces/1vAxRAbeMbvJl">
             <img src="https://shawnimages.netlify.app/images/spaces/ilhan-future-of-content.jpeg" width="100%"  alt="#"/>
         </a>
-        <p><strong>title</strong> - description</p>
+        <p><strong>title</strong> - Explore the evolving landscape of content creation through the lens of unlearning.
+</p>
     </td>
   </tr>
   
@@ -393,13 +394,14 @@
         <a target="_blank" href="https://twitter.com/i/spaces/1ynJOakDEaAKR">
             <img src="https://shawnimages.netlify.app/images/spaces/jessica-leverage-linkedin-for-tech.jpeg" width="100%" alt="#"/>
         </a>
-        <p><strong>title</strong> - description</p>
+        <p><strong>title</strong> - Learn how to utilize LinkedIn effectively in the tech job market with live reviews in this #careerfireside session.
+</p>
     </td>
     <td width="50%" valign="top">
       <a target="_blank" href="https://twitter.com/i/spaces/1lDGLLzbaDbGm">
             <img src="https://shawnimages.netlify.app/images/spaces/the-hunt-aug12.jpeg" width="100%"  alt="#"/>
         </a>
-        <p><strong>title</strong> - description</p>
+        <p><strong>title</strong> - Join #100Devs in 'The Hunt' as they share insights and strategies for securing a job in the tech industry.</p>
     </td>
   </tr>
   

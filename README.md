@@ -65,6 +65,7 @@ $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverf
       <a target="_blank" href="https://twitter.com/i/spaces/1YpKkgOdvRwKj">
             <img src="https://shawnimages.netlify.app/images/spaces/nicole-surviving-sapa.jpeg" width="100%"  alt="#"/>
         </a>
+      $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
         <p><strong style="color:green;">Views</strong> - <strong style="color:red;">min</strong> - Strategies and insights for navigating the financial challenges and economic uncertainties specific to the tech industry.
 
 </p>

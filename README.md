@@ -11,9 +11,10 @@ ${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverfl
     </td>
     <td width="50%" valign="top">
       <a target="_blank" href="https://twitter.com/i/spaces/1yNGaZDDjeVJj">
-            <img src="https://shawnimages.netlify.app/images/spaces/francesco-being-a-dev-in-2024.jpeg" width="100%"  alt="#"/>
+            <img src=".
+              https://shawnimages.netlify.app/images/spaces/francesco-being-a-dev-in-2024.jpeg" width="100%"  alt="#"/>
         </a>
-      $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+      ${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$
         <p><strong style="color:green;">Views</strong> - <strong style="color:red;">min</strong> - Explores the evolving landscape of software development, highlighting the latest technologies, industry trends, and the skills required to succeed in this dynamic field.</p>
     </td>
   </tr>
@@ -23,14 +24,14 @@ ${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverfl
         <a target="_blank" href="https://twitter.com/i/spaces/1MYxNoZQXgVKw">
             <img src="https://shawnimages.netlify.app/images/spaces/propel-demystifying-devrel.jpeg" width="100%" alt="#"/>
         </a>
-      $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+      ${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$
         <p><strong style="color:green;">Views</strong> - <strong style="color:red;">min</strong> - Delves into the often-overlooked facets of Developer Relations, featuring insights and experiences from seasoned professionals in the field.</p>
     </td>
     <td width="50%" valign="top">
       <a target="_blank" href="https://twitter.com/i/spaces/1gqxvyRVQZRJB">
             <img src="https://github.com/CharlesCreativeContent/Portfolio2021/blob/main/images/Minimalist%20Business%20Talk%20Animated%20Facebook%20Post.gif?raw=true" width="100%"  alt="#"/>
         </a>
-      $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+      ${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$
         <p><strong style="color:green;">Views</strong> - <strong style="color:red;">min</strong> - Casual yet informative discussion, providing insider tips and practical advice for breaking into the tech industry, shared over a virtual coffee.
 
 </p>

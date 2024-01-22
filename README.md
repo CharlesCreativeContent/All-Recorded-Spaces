@@ -12,7 +12,7 @@
         <a target="_blank" href="https://twitter.com/i/spaces/1yNGaZDDjeVJj">
             <img src="https://shawnimages.netlify.app/images/spaces/francesco-being-a-dev-in-2024.jpeg" width="100%" alt="#"/>
         </a>
-        <p><strong>Views</strong> - <strong>min</strong> - Explores the evolving landscape of software development, highlighting the latest technologies, industry trends, and the skills required to succeed in this dynamic field.</p>
+        <p>$${\color{red}25 min \space \color{white}- \space \color{lightgreen}{views}}$$  Explores the evolving landscape of software development, highlighting the latest technologies, industry trends, and the skills required to succeed in this dynamic field.</p>
     </td>
   </tr>
   

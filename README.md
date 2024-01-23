@@ -12,7 +12,7 @@
       <a target="_blank" href="https://twitter.com/i/spaces/1yNGaZDDjeVJj">
             <img src="https://github.com/CharlesCreativeContent/myImages/blob/main/images/spaces/francesco-being-a-dev-in-2024.jpeg?raw=true" width="100%"  alt="#"/>
         </a>
-        <p><strong>1205 min - 18000+ views - </strong> Explores the evolving landscape of software development, highlighting the latest technologies, industry trends, and the skills required to succeed in this dynamic field.</p>
+        <p><strong>7+ hrs - 3.4K views - </strong> Explores the evolving landscape of software development, highlighting the latest technologies, industry trends, and the skills required to succeed in this dynamic field.</p>
     </td>
   </tr>
   
@@ -21,7 +21,7 @@
         <a target="_blank" href="https://twitter.com/i/spaces/1MYxNoZQXgVKw">
             <img src="https://github.com/CharlesCreativeContent/myImages/blob/main/images/spaces/propel-demystifying-devrel.jpeg?raw=true" width="100%" alt="#"/>
         </a>
-        <p><strong>1205 min - 18000+ views - </strong> Delves into the often-overlooked facets of Developer Relations, featuring insights and experiences from seasoned professionals in the field.</p>
+        <p><strong>4+ hrs - 1.3K views - </strong> Delves into the often-overlooked facets of Developer Relations, featuring insights and experiences from seasoned professionals in the field.</p>
     </td>
     <td width="50%" valign="top">
       <a target="_blank" href="https://twitter.com/i/spaces/1gqxvyRVQZRJB">

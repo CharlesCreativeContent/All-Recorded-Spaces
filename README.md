@@ -6,14 +6,13 @@
         <a target="_blank" href="https://twitter.com/i/spaces/1lPKqmmpWqeKb">
             <img src="https://github.com/CharlesCreativeContent/Portfolio2021/blob/main/images/Dark%20Blue%20and%20Yellow%20Modern%20Business%20Strategy%20Live%20Webinar%20Instagram%20Post.gif?raw=true" width="100%" alt="#"/>
         </a>
-        <p>120min - 55 views -  Comprehensive guide offering strategies, tips, and insights for navigating the competitive tech industry job market.</p>
+        <p><strong>1205 min - 18000+ views - </strong>  Comprehensive guide offering strategies, tips, and insights for navigating the competitive tech industry job market.</p>
     </td>
     <td width="50%" valign="top">
       <a target="_blank" href="https://twitter.com/i/spaces/1yNGaZDDjeVJj">
             <img src="https://github.com/CharlesCreativeContent/myImages/blob/main/images/spaces/francesco-being-a-dev-in-2024.jpeg?raw=true" width="100%"  alt="#"/>
         </a>
-      ${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$
-        <p><strong style="color:green;">Views</strong> - <strong style="color:red;">min</strong> - Explores the evolving landscape of software development, highlighting the latest technologies, industry trends, and the skills required to succeed in this dynamic field.</p>
+        <p><strong>1205 min - 18000+ views - </strong> Explores the evolving landscape of software development, highlighting the latest technologies, industry trends, and the skills required to succeed in this dynamic field.</p>
     </td>
   </tr>
   

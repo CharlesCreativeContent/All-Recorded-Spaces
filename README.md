@@ -6,7 +6,7 @@
         <a target="_blank" href="https://twitter.com/i/spaces/1lPKqmmpWqeKb">
             <img src="https://github.com/CharlesCreativeContent/Portfolio2021/blob/main/images/Dark%20Blue%20and%20Yellow%20Modern%20Business%20Strategy%20Live%20Webinar%20Instagram%20Post.gif?raw=true" width="100%" alt="#"/>
         </a>
-        <p><strong>1205 min - 18000+ views - </strong>  Comprehensive guide offering strategies, tips, and insights for navigating the competitive tech industry job market.</p>
+        <p><strong>20+ hrs - 18000+ views - </strong>  Comprehensive guide offering strategies, tips, and insights for navigating the competitive tech industry job market.</p>
     </td>
     <td width="50%" valign="top">
       <a target="_blank" href="https://twitter.com/i/spaces/1yNGaZDDjeVJj">

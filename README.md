@@ -27,7 +27,7 @@
       <a target="_blank" href="https://twitter.com/i/spaces/1gqxvyRVQZRJB">
             <img src="https://github.com/CharlesCreativeContent/Portfolio2021/blob/main/images/Minimalist%20Business%20Talk%20Animated%20Facebook%20Post.gif?raw=true" width="100%"  alt="#"/>
         </a>
-        <p><strong>1205 min - 18000+ views - </strong>Casual yet informative discussion, providing insider tips and practical advice for breaking into the tech industry, shared over a virtual coffee.
+        <p><strong>1205 min - 13.8K+ views - </strong>Casual yet informative discussion, providing insider tips and practical advice for breaking into the tech industry, shared over a virtual coffee.
 
 </p>
     </td>
@@ -38,7 +38,7 @@
         <a target="_blank" href="https://twitter.com/i/spaces/1ypKdEdMoVYGW">
             <img src="https://github.com/CharlesCreativeContent/Portfolio2021/blob/main/images/Blue%20and%20Yellow%20Modern%20Business%20Strategy%20Live%20Webinar%20Instagram%20Post.gif?raw=true" width="100%" alt="#"/>
         </a>
-        <p><strong>6+ hrs - 14K views - </strong>Real-time critiques and advice on improving LinkedIn profiles, providing valuable guidance for enhancing online professional presence.
+        <p><strong>6+ hrs - 2.8K views - </strong>Real-time critiques and advice on improving LinkedIn profiles, providing valuable guidance for enhancing online professional presence.
 
 </p>
     </td>

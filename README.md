@@ -27,7 +27,7 @@
       <a target="_blank" href="https://twitter.com/i/spaces/1gqxvyRVQZRJB">
             <img src="https://github.com/CharlesCreativeContent/Portfolio2021/blob/main/images/Minimalist%20Business%20Talk%20Animated%20Facebook%20Post.gif?raw=true" width="100%"  alt="#"/>
         </a>
-        <p><strong>1205 min - 13.8K+ views - </strong>Casual yet informative discussion, providing insider tips and practical advice for breaking into the tech industry, shared over a virtual coffee.
+        <p><strong>6+ hrs - 13.8K+ views - </strong>Casual yet informative discussion, providing insider tips and practical advice for breaking into the tech industry, shared over a virtual coffee.
 
 </p>
     </td>
